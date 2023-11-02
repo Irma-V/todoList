@@ -144,7 +144,6 @@ export default {
             //     iconName: 'pencil-outline'
             // }
             */
-
             this.saveNote()
         },
 
