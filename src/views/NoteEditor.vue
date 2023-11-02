@@ -149,6 +149,7 @@ export default {
 
         /* Принятие всех изменений в Note, перезапись Notes*/
         saveAll() {
+            
             this.saveNote()
 
             if (!this.$route.params.id) {
