@@ -59,7 +59,6 @@ export default {
                 // console.log(this.notes);
                 this.notesListIsEmpty = false
             }
-
             ///
             /* // console.log('перед присвоением: ', this.notes);
             // let currentNotes = JSON.parse(localStorage.getItem('notes'))
