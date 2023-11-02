@@ -210,7 +210,6 @@ export default {
                 // return
             }
             this.redoState = true
-
             this.state = this.states[idx]
             console.log(this.state);
             this.setActualState()            
@@ -225,10 +224,10 @@ export default {
                 // return
             }
             this.undoState = true
-
             this.state = this.states[idx]
             console.log(this.state);
             this.setActualState()
+            console.log('state');
         },
     },
     watch: {
