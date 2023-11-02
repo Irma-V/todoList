@@ -1,0 +1,19 @@
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style-type: none;
+}
+
+ion-icon {
+  cursor: pointer;
+}
+input {
+  padding: 0;
+  margin: 0;
+  padding-block: 0;
+  padding-inline: 0.1rem;
+  border-width: 0.1rem;
+  border-style: inset;
+}
